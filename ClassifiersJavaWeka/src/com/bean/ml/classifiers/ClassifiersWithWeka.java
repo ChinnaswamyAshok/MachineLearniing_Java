@@ -14,7 +14,7 @@ import weka.core.SerializationHelper;
 import weka.core.converters.ArffLoader;
 
 /**
- * @author AOC1COB
+ * @author Ashok Chinnaswamy
  */
 public class ClassifiersWithWeka {
 
